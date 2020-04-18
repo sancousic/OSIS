@@ -1,0 +1,16 @@
+C:\Users\Пользователь\source\repos\SP5\obj\Debug\SP5.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\SP5\obj\Debug\SP5.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\SP5\obj\Debug\SP5.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\SP5\bin\Debug\SP5.exe.config
+C:\Users\Пользователь\source\repos\SP5\bin\Debug\SP5.exe
+C:\Users\Пользователь\source\repos\SP5\bin\Debug\SP5.pdb
+C:\Users\Пользователь\source\repos\SP5\obj\Debug\SP5.exe
+C:\Users\Пользователь\source\repos\SP5\obj\Debug\SP5.pdb
+C:\Users\Пользователь\source\repos 19-20-1\SP5\bin\Debug\SP5.exe.config
+C:\Users\Пользователь\source\repos 19-20-1\SP5\bin\Debug\SP5.exe
+C:\Users\Пользователь\source\repos 19-20-1\SP5\bin\Debug\SP5.pdb
+C:\Users\Пользователь\source\repos 19-20-1\SP5\obj\Debug\SP5.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos 19-20-1\SP5\obj\Debug\SP5.Properties.Resources.resources
+C:\Users\Пользователь\source\repos 19-20-1\SP5\obj\Debug\SP5.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos 19-20-1\SP5\obj\Debug\SP5.exe
+C:\Users\Пользователь\source\repos 19-20-1\SP5\obj\Debug\SP5.pdb

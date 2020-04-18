@@ -1,0 +1,21 @@
+C:\Users\Пользователь\source\repos\AVS1\bin\Debug\netcoreapp2.2\AVS1.deps.json
+C:\Users\Пользователь\source\repos\AVS1\bin\Debug\netcoreapp2.2\AVS1.runtimeconfig.json
+C:\Users\Пользователь\source\repos\AVS1\bin\Debug\netcoreapp2.2\AVS1.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\AVS1\bin\Debug\netcoreapp2.2\AVS1.dll
+C:\Users\Пользователь\source\repos\AVS1\bin\Debug\netcoreapp2.2\AVS1.pdb
+C:\Users\Пользователь\source\repos\AVS1\obj\Debug\netcoreapp2.2\AVS1.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\AVS1\obj\Debug\netcoreapp2.2\AVS1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\AVS1\obj\Debug\netcoreapp2.2\AVS1.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\AVS1\obj\Debug\netcoreapp2.2\AVS1.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\AVS1\obj\Debug\netcoreapp2.2\AVS1.dll
+C:\Users\Пользователь\source\repos\AVS1\obj\Debug\netcoreapp2.2\AVS1.pdb
+C:\Users\Пользователь\source\repos 19-20-1\AVS1\bin\Debug\netcoreapp2.2\AVS1.deps.json
+C:\Users\Пользователь\source\repos 19-20-1\AVS1\bin\Debug\netcoreapp2.2\AVS1.runtimeconfig.json
+C:\Users\Пользователь\source\repos 19-20-1\AVS1\bin\Debug\netcoreapp2.2\AVS1.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos 19-20-1\AVS1\bin\Debug\netcoreapp2.2\AVS1.dll
+C:\Users\Пользователь\source\repos 19-20-1\AVS1\bin\Debug\netcoreapp2.2\AVS1.pdb
+C:\Users\Пользователь\source\repos 19-20-1\AVS1\obj\Debug\netcoreapp2.2\AVS1.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos 19-20-1\AVS1\obj\Debug\netcoreapp2.2\AVS1.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos 19-20-1\AVS1\obj\Debug\netcoreapp2.2\AVS1.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos 19-20-1\AVS1\obj\Debug\netcoreapp2.2\AVS1.dll
+C:\Users\Пользователь\source\repos 19-20-1\AVS1\obj\Debug\netcoreapp2.2\AVS1.pdb

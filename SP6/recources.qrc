@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/recources">
+        <file>png/icon.ico</file>
+        <file>png/mouse.png</file>
+    </qresource>
+</RCC>
